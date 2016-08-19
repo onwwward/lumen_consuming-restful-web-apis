@@ -9,7 +9,7 @@
 
 This is an example application in Lumen - [made in this YouTube tutorial series](https://www.youtube.com/playlist?list=PLCrHQ9zkkEIMB3Gbq_D2c8OKS_mEP_BWv) - for consuming restful web apis. 
 
-If you want to learn how this application was made then head over to the [Onwwward Academy](https://www.youtube.com/channel/UCABdZLLRuefXQW4Eo9oi6Jw) YouTube channel for more information.
+If you want to learn how this application was made then head over to the [Onwwward](https://www.youtube.com/channel/UCABdZLLRuefXQW4Eo9oi6Jw) YouTube channel for more information.
 
 ---
 ## PART 01 - INTRODUCTION 
