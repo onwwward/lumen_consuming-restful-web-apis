@@ -1,3 +1,10 @@
+[![license](https://img.shields.io/github/license/onwwward/lumen_consuming-restful-web-apis.svg?maxAge=2592000?style=plastic)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?maxAge=2592000)]()
+
+[![GitHub followers](https://img.shields.io/github/followers/onwwward.svg?style=social&label=Follow&maxAge=2592000)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/onwwward.svg?style=social&label=Follow&maxAge=2592000)]()
+[![YouTube Subscribe](https://img.shields.io/badge/Subscribe-Onwwward-red.svg?style=social&maxAge=2592000&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAMAAAAYGszCAAABSlBMVEXDGh7iKybEGh7gKibBGB7BGB7jLCfGGx%2FeKSXBGB3BGB3kLCfJHSDbKCTBGB3kLCfBGB3MHyHkLCfZJiTBGB3kLCfBGB3BGB3kLCfBGB3kLCfBGB3kLCfBGB3OICHXJSPkLCfRIiLTIyLkmprdamzcYGHcZmbrrq7zvb3XREPhZWP0zs%2F1y8vTIiPNIyX%2F%2F%2F%2FKDhDQHx%2FVGBXaIR78%2F%2F%2F%2B%2F%2F%2F%2F%2F%2F%2FRNTfXPT3ZPz7cQkHfRkTUFxXWQ0TcLCn88vL%2F%2F%2F%2FECAvEGh7GBQfGGx7GGx%2FGHB%2FHFRjIGRvJHSDJHiHKFxnKGBrLDA3LERLMHyHMICLOFRTOICHOISLRFhXRHh7RIiLTHRzTIyLUFxXWEQ%2FWISDXGxnXJSPXJSTYExDZIiDZJiTZJyXbIyDbJyPbKCTbKCXdIR3eJiLeKSXeKibhKib9%2BPj%2F%2F%2F%2F09AxPAAAAQXRSTlMAAGNkgYSFvr%2FS2Nna2uPk5ubm5%2Bnp6uvr7e3u7u%2Fv7%2B%2Fx8fX3%2BPj4%2BPn5%2Bfn6%2B%2Fv8%2FPz8%2FPz8%2Ff39%2Ff3%2B%2Fv7%2B%2FoaM0CAAAAC4SURBVBgZBcFBSpwxGADQ9ydfhmEUxI07C92V0u69kHfyPi5EvIEXGNwpdsBOki%2B%2Bt22tRa21lDAy55yj9yj3AAAeoiVsuQqAFm3Aej39ibqAFrsBfZ5e9r92ZcGu3txmZs73K%2F%2Fevi5lZh6jdhhr3Xk6fvzeUGMlzPXX81eN3LBiDpjtcZwvfrZcmPE5Ic%2Bnw499neAz%2Bhm268Ou5H%2BgRx%2BwZV0DoEefgATQN9FaiVJLkZlz5Oj9GzkmXNH4w3WiAAAAAElFTkSuQmCC)](https://www.youtube.com/channel/UCABdZLLRuefXQW4Eo9oi6Jw)
+
 # LUMEN - CONSUMING RESTFUL WEB APIs
 
 This is an example application in Lumen - [made in this YouTube tutorial series](https://www.youtube.com/playlist?list=PLCrHQ9zkkEIMB3Gbq_D2c8OKS_mEP_BWv) - for consuming restful web apis. 
