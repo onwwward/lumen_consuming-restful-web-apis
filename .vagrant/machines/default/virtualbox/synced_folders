@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/consuming-restful-web-apis":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/consuming-restful-web-apis","hostpath":"/Users/rolandka/Code/consuming-restful-web-apis","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/rolandka/Code/consuming-restful-web-apis","disabled":false,"__vagrantfile":true}}}
