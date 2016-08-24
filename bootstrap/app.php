@@ -28,6 +28,7 @@ $app = new Laravel\Lumen\Application(
 $app->withFacades();
 
 class_alias('Mpclarkson\Laravel\Freshdesk\FreshdeskFacade', 'Freshdesk');
+class_alias('Onwwward\Bugherd\Facades\Bugherd', 'Bugherd');
 
 // $app->withEloquent();
 
@@ -86,7 +87,12 @@ $app->singleton(
 // $app->register(App\Providers\AuthServiceProvider::class);
 // $app->register(App\Providers\EventServiceProvider::class);
 
+$app->register(Illuminate\Filesystem\FilesystemServiceProvider::class);
+$app->configure('filesystems');
+
 $app->register(Mpclarkson\Laravel\Freshdesk\FreshdeskServiceProvider::class);
+$app->register(Onwwward\Bugherd\BugherdServiceProvider::class);
+
 
 /*
 |--------------------------------------------------------------------------

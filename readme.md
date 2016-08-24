@@ -65,3 +65,14 @@ The video tries to visually explain how the application works. The project is al
 
 [![LARAVEL | LUMEN - CONSUMING RESTFUL WEB APIs - PART 06 - GIT PUSH VIDEO TUTURIAL](http://img.youtube.com/vi/nZFnnGHMwHA/mqdefault.jpg)](https://youtu.be/nZFnnGHMwHA)
 
+---
+## EXTRA PART - EXPANSION
+
+We will expand our [Lumen](https://lumen.laravel.com) application by adding the ability to filter the incoming tasks via a json file.
+
+>You will find the code containing the changes made in this video in a separate branch.
+
+[LARAVEL | LUMEN - CONSUMING RESTFUL WEB APIs - EXTRA PART - EXPANSION VIDEO TUTURIAL](https://youtu.be/dKu_fo8tSF4)
+
+[![LARAVEL | LUMEN - CONSUMING RESTFUL WEB APIs - EXTRA PART - EXPANSION VIDEO TUTURIAL](http://img.youtube.com/vi/dKu_fo8tSF4/mqdefault.jpg)](https://youtu.be/dKu_fo8tSF4)
+

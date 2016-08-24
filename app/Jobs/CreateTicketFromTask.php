@@ -32,7 +32,7 @@ class CreateTicketFromTask extends Job
     {
         $data = [
             "description" => $this->task['description'],
-            "subject" => $this->task['description'],
+            "subject" => $this->task['subject'],
             "email" => $this->task['requester_email'],
             "priority" => 1,
             "status" => 2

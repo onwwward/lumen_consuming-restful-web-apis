@@ -8,7 +8,9 @@
         "php": ">=5.5.9",
         "laravel/lumen-framework": "5.2.*",
         "vlucas/phpdotenv": "~2.2",
-        "mpclarkson/freshdesk-laravel": "^0.2.2"
+        "mpclarkson/freshdesk-laravel": "^0.2.2",
+        "onwwward/laravel-bugherd": "^0.1.0",
+        "league/flysystem": "^1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

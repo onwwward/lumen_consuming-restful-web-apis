@@ -6,9 +6,10 @@ use Illuminate\Http\Request;
 use App\Jobs\CreateTicketFromTask;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Queue;
+use Illuminate\Support\Facades\Storage;
 
 class ApiController extends Controller
-{
+{ 
   /**
    * Add task to the queue.
    * 
@@ -23,8 +24,23 @@ class ApiController extends Controller
       ]
     ];
 
+    $projects = json_decode(Storage::get('projects.json'), true);
+
     if ($request->has('task')) {
-      Queue::push(new CreateTicketFromTask($request->get('task')));
+      $task = $request->get('task');
+    }
+
+    if ( isset($task) 
+         && isset($projects[ $task['project_id'] ])
+         && $projects[ $task['project_id'] ]['sync'] == true
+      ) {
+      
+      $task['subject'] = sprintf('%s - %s...',
+        $projects[ $task['project_id'] ]['name'],
+        substr($task['description'], 0, 15)
+      );
+
+      Queue::push(new CreateTicketFromTask($task));
 
       $response = [
         'success' => [
